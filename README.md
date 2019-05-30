@@ -2,8 +2,11 @@
 Thank you for joining us in the first ever Code-A-Thon at Wakandacon!
 
 ## Gaming
-<!-- - [Azure for Students (free $100 credit)](https://azure.microsoft.com/free/students/?WT.mc_id=build2019studentoffer)
-- [GitHub Free Personal Account](https://github.com/) -->
+- [Beginner: Minecraft Edition](https://studio.code.org/s/mc/stage/1/puzzle/1)
+- [Beginner: Arcade Edition](https://arcade.makecode.com/)
+    - Start with 'Chase The Pizza'
+- [Intermediate/Hard: Minecraft Edition](https://github.com/gcrev93/WakandaconCodeAThon/blob/master/Gaming/Intermediate-Minecraft.pdf)
+- [Intermediate/Hard: Arcade Edition](https://github.com/gcrev93/WakandaconCodeAThon/blob/master/Gaming/Intermediate-Arcade.pdf)
 
 ## Web
 <!-- [MakeCode Arcade](https://github.com/microsoft/computerscience/blob/master/Events%20and%20Hacks/Build/Buildit%20MakeCode%20Arcade.pptx)  

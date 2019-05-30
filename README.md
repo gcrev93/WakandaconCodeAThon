@@ -1,5 +1,5 @@
 # Wakandacon Code-A-Thon 2019 
-Thank you for joining us in the first ever Code-A-Thon at Wakandacon!
+Thank you for joining us in the first ever Code-A-Thon at Wakandacon! //TODO: Finish description and introduction 
 
 ## Gaming
 - [Beginner: Minecraft Edition](https://studio.code.org/s/mc/stage/1/puzzle/1)

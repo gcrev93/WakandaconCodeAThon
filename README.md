@@ -16,7 +16,7 @@ Please note: Many of the workshop links do require you to sign up **(EVERYTHING 
     - Choose programming language of choice
 
 ## Web
-- [Beginner] (https://codedragon.org/learn)
+- [Beginner](https://codedragon.org/learn)
     - Drag and Drop Programming
     - Must do at least 3 of the Introduction workshops + 1 CSS
     - Completing all gets you 2 stamps

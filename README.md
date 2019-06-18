@@ -1,36 +1,38 @@
 # Wakandacon Code-A-Thon 2019 
 Thank you for joining us in the first ever Code-A-Thon at Wakandacon! //TODO: Finish description and introduction 
+Please note: Many of the workshop links do require you to sign up **(EVERYTHING IS FREE)**. But having an account will allow you to revisit workshops you like after the conference.
 
-## Gaming
+## Gaming/Animation
 - [Beginner: Minecraft Edition](https://studio.code.org/s/mc/stage/1/puzzle/1)
+    - Drag and Drop Programming
 - [Beginner: Arcade Edition](https://arcade.makecode.com/)
-    - Start with 'Chase The Pizza'
-- [Intermediate/Hard: Minecraft Edition](https://github.com/gcrev93/WakandaconCodeAThon/blob/master/Gaming/Intermediate-Minecraft.pdf)
-- [Intermediate/Hard: Arcade Edition](https://github.com/gcrev93/WakandaconCodeAThon/blob/master/Gaming/Intermediate-Arcade.pdf)
+    - Drag and Drop Programming
+    - Start with **Chase The Pizza**
+- [Intermediate: Minecraft Edition](https://github.com/gcrev93/WakandaconCodeAThon/blob/master/Gaming/Intermediate-Minecraft.pdf)
+    - Drag and Drop/JavaScript Programming
+- [Intermediate: Arcade Edition](https://github.com/gcrev93/WakandaconCodeAThon/blob/master/Gaming/Intermediate-Arcade.pdf)
+    - Drag and Drop/JavaScript Programming
+- [Pro](https://www.codingame.com/home)
+    - Choose programming language of choice
 
 ## Web
-<!-- [MakeCode Arcade](https://github.com/microsoft/computerscience/blob/master/Events%20and%20Hacks/Build/Buildit%20MakeCode%20Arcade.pptx)  
-[MakeCode Circuit Playground](https://github.com/microsoft/computerscience/blob/master/Events%20and%20Hacks/Build/Buildit%20MakeCode%20for%20CPX.pptx)  
-[MakeCode Minecraft](https://github.com/microsoft/computerscience/blob/master/Events%20and%20Hacks/Build/Buildit%20MakeCode%20for%20Minecraft.pptx)  
-[MakeCode micro:bit](https://github.com/microsoft/computerscience/blob/master/Events%20and%20Hacks/Build/Buildit%20MakeCode%20for%20the%20microbit.pptx) -->
+- [Beginner] (https://codedragon.org/learn)
+    - Drag and Drop Programming
+    - Must do at least 3 of the Introduction workshops + 1 CSS
+    - Completing all gets you 2 stamps
+- [Intermediate](https://www.codecademy.com/learn/make-a-website)
+    - HTML+CSS Programming
+    - There are 4 lessons. Each lesson is worth a stamp
+- [Intermediate](https://www.codecademy.com/learn/introduction-to-javascript)
+- [Intermediate/Pro](https://www.khanacademy.org/computing/computer-programming/html-css-js#js-and-the-dom)
+    - Must do at least 2 lessons for a stamp
+    - Every additional 2 lessons gets you a stamp
+    - Start with **JS and the DOM**
 
 ## Mobile
-<!-- [Micro:bit Project Ideas – MakeCode ](https://makecode.microbit.org/)  
-[Micro:bit Project Ideas – Microbit.org ](https://microbit.org/ideas/)  
-[Circuit Playground Express Project Ideas – MakeCode ](https://makecode.adafruit.com/)  
-[Circuit Playground Express Project Ideas – Adafruit ](https://learn.adafruit.com/category/express)  
-[Minecraft Tutorials and Sample Mods ](https://minecraft.makecode.com/)  
-[MakeCode Arcade Tutorials and Sample Games ](https://arcade.makecode.com/)  
-[Build a Mobile App with Xamarin!](https://aka.ms/MSBuild2019_StudentZone)  
-[Try .NET in the Browser!](https://trialinteractivedotnet.azurewebsites.net/)  
-[Explore Azure Cognitive Services in Azure Notebooks](https://notebooks.azure.com/sarah-guthals/projects/buildstudentzone)  
-[Make Your Own Emotion Detector Animation](https://github.com/Wicklets/FaceDetectionWithAzure) 
-[Python app in Azure App Service Tutorial](https://docs.microsoft.com/en-us/azure/app-service/containers/quickstart-python?toc=%2Fpython%2Fazure%2FTOC.json)  
 
-Copy for Try.NET:  
-dotnet tool install -g --version 1.0.8010001-alpha-9c8fa322 --configfile nuget.config dotnet-try -->
 
-## Languages
+## Programming Fundamentals/Languages
 
 
 ## Other Tools and Services Available

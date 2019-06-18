@@ -24,6 +24,7 @@ Please note: Many of the workshop links do require you to sign up **(EVERYTHING 
     - HTML+CSS Programming
     - There are 4 lessons. Each lesson is worth a stamp
 - [Intermediate Pt II: Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
+    - JavaScript Programming
 - [Intermediate/Pro: Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css-js#js-and-the-dom)
     - Must do at least 2 lessons for a stamp
     - Every additional 2 lessons gets you a stamp

@@ -1,5 +1,5 @@
+# Shuri's Room: Wakandacon Code-A-Thon 2019
 <p align="center">
-<h1><strong> Shuri's Room: Wakandacon Code-A-Thon 2019 </strong></h1>
     <img src="https://ci6.googleusercontent.com/proxy/MtK_z0TMLOS9E4xIFbtAfRj0ebk7SZseW5dhu0nFuMtDxuw1-mBY-VzFGndccbl6TniFMv8fiCjY_fzqcN7hhQMbv2cVsTQu=s0-d-e1-ft#https://wakandaconforever.com/email/content-shuri.jpg">
 </p>
 

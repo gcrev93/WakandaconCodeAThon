@@ -31,10 +31,17 @@ Please note: Many of the workshop links do require you to sign up **(EVERYTHING 
     - Start with **JS and the DOM**
 
 ## Mobile
-
+- [Beginner: Code.org App Lab](https://studio.code.org/s/applab-intro/stage/1/puzzle/1)
+    - Drag and Drop Programming
+- []()
 
 ## Programming Fundamentals/Languages
-
+- [Beginner: Codecademy Coding Fundamentals](https://www.codecademy.com/learn/learn-how-to-code)
+    - There are 3 lessons. Each lession is worth a stamp.
+- [Intermediate: Codecademy Learn Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+- [Intermediate: Codecademy Learn C#](https://www.codecademy.com/learn/learn-c-sharp)
+- [Intermediate: Codecademy Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus)
+- [Intermediate: Codecademy Learn PHP](https://www.codecademy.com/learn/learn-php)
 
 ## Other Tools and Services Available
 <!-- - [Azure Lab Services](https://azure.microsoft.com/services/lab-services/?WT.mc_id=jrdevdays-build2019-cxa)

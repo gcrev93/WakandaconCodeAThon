@@ -10,4 +10,5 @@ Welcome to Shuri's Room, hosted by Gabrielle Crevecoeur [(@NoWaySheCodes)](www.n
 <p align="center">
     <img src="https://github.com/gcrev93/WakandaconCodeAThon/blob/master/Logos/Screen%20Shot%202019-07-15%20at%202.58.34%20PM.png" width="10%">
     <img src="https://github.com/gcrev93/WakandaconCodeAThon/blob/master/Logos/Microsoft-logo_rgb_c-gray%20(1).png?raw=true" width="30%">
+        <img src ="https://github.com/gcrev93/WakandaconCodeAThon/blob/master/Logos/Black@CHI.png?raw=true" width="10%">
 </p>

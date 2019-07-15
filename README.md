@@ -41,6 +41,7 @@ We would like to thank our sponsors:
     - Drag and Drop/JavaScript Programming
 - [Pro: CodeinGame](https://www.codingame.com/training)
     - Choose programming language of choice
+    - Choose any puzzle you want
     - Every 2 puzzles is a stamp
 
 ## Web

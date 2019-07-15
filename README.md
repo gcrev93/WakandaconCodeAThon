@@ -36,12 +36,16 @@ Please note: Many of the workshop links do require you to sign up **(EVERYTHING 
 - []()
 
 ## Programming Fundamentals/Languages
-- [Beginner: Codecademy Coding Fundamentals](https://www.codecademy.com/learn/learn-how-to-code)
+- [Beginner: Coding Fundamentals](https://www.codecademy.com/learn/learn-how-to-code)
     - There are 3 lessons. Each lession is worth a stamp.
-- [Intermediate: Codecademy Learn Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+- [Intermediate: Learn Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+    - There are 5 lessons. Each lesson is worth 2 stamps.
 - [Intermediate: Codecademy Learn C#](https://www.codecademy.com/learn/learn-c-sharp)
+    - There are 4 lessons. Each lesson is worth 2 stamps
 - [Intermediate: Codecademy Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus)
+    -  There are 5 lessons. Each lesson is worth 2 stamps.
 - [Intermediate: Codecademy Learn PHP](https://www.codecademy.com/learn/learn-php)
+    - There are 5 lessons. Each lesson is worth 2 stamps.
 
 ## Other Tools and Services Available
 <!-- - [Azure Lab Services](https://azure.microsoft.com/services/lab-services/?WT.mc_id=jrdevdays-build2019-cxa)

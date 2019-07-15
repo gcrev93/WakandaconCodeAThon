@@ -3,7 +3,7 @@
     <img src="https://ci6.googleusercontent.com/proxy/MtK_z0TMLOS9E4xIFbtAfRj0ebk7SZseW5dhu0nFuMtDxuw1-mBY-VzFGndccbl6TniFMv8fiCjY_fzqcN7hhQMbv2cVsTQu=s0-d-e1-ft#https://wakandaconforever.com/email/content-shuri.jpg">
 </p>
 
-Welcome to Shuri's Room: The Official Code-A-Thon Wakandacon hosted by Gabrielle Crevecoeur [(@NoWaySheCodes)](www.nowayshecodes.com)! The purpose of this room is for people of all ages and skill level to come in and learn something new. These workshops are self-led and are meant to allow you to work on your own time. Best part is, the more workshops you do, the more prizes you can get (try to do enough to get you raffle tickets for the BIG prizes).
+Welcome to Shuri's Room, hosted by Gabrielle Crevecoeur [(@NoWaySheCodes)](www.nowayshecodes.com) ! The purpose of this room is for people of all ages and skill level to come in and learn something new. These workshops are self-led and are meant to allow you to work on your own time. Best part is, the more workshops you do, the more prizes you can get (try to do enough to get you raffle tickets for the BIG prizes).
 
 ### How it works:
 1. Get a workshop booklet

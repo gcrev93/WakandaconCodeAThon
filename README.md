@@ -5,6 +5,7 @@
 
 Welcome to Shuri's Room, hosted by Gabrielle Crevecoeur [(@NoWaySheCodes)](www.nowayshecodes.com) ! To get started go [here!](https://github.com/gcrev93/WakandaconCodeAThon/wiki/Shuri's-Room:-Wakandacon-Code-A-Thon-2019)
 
+**Are you interested in hearing about job opportunities with our tech sponsors? Fill out the survey** [**here**](https://forms.gle/mFkEtQuvb2ztzfnRA)!
 
 ## Thank you to our Sponsors
 <p align="center">
